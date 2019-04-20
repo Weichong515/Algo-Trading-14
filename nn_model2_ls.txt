@@ -1,0 +1,15 @@
+20181016-20181031 -0.01874447243820561 0.07950869988606223
+Long:vtr adi ctb wrk pvh uri well txn ftv aptv so iff pdco mhk aal rsg vrsk nke cat alxn
+Short:slb hal fhn nbr wpx fcx chk do avp coty qep bvsn win rdc esv kmi rrc rig dnr wft
+20181101-20181115 0.00958486895368256 0.07539857530160865
+Long:amd ibm ati aig oxy txt bgg rad kr nwl xyl wy mhk eqix pwr sbux pbi san pcar exc
+Short:igt chk do bbby wfc ge fcx clf cnx nbr win bvsn rht qep aks jcp odp ne dnr wft
+20181116-20181130 0.008820059157016264 0.03862810931605332
+Long:cnx bkng brk.b afl dlx usb nov wfc luv thc abmd eqix hog regn sci csx fslr pfe nke sti
+Short:evrg dnr aes slm txt dgx ftr ne reg mdr pgr syf gis avp qep bvsn esv ge df wft
+20181203-20181214 -0.08420009378968411 0.05574385839811578
+Long:azo wec rht eix dnb pcg rdc apa cag xray slb itw ghc bk a trv clx adi hlt aapl
+Short:gt cnx mat ne myl mdr fitb f ftr swn nbr rf bvsn kbh pbi gnw win df wft rad
+20181217-20181231 -0.04260201275399443 0.025301983962481945
+Long:nbl tif amzn fosl cr cost disck ghc rl jwn flr wmt cma sig slb pvh hum mdt rf ads
+Short:bbt jef aks atvi ge aes coty hban bvsn ne mdr bgg avp chk pbi wft rrd swn win nbr
