@@ -1,0 +1,15 @@
+20181016-20181031 -0.01874447243820561 0.06461880170307882
+Long:ctb ccl amd dre aal sig sbac pvh vno akam dlx kss bbby tup aos kmx evrg grmn rhi fslr
+Short:ne adm odp nfx rrc rig pbi aks f rdc chk qep bgg jnpr navi rrd jcp dnr wft avp
+20181101-20181115 0.00958486895368256 0.07563769802718834
+Long:xray eqt symc stx amd oxy chd ibm pbi mnk eog ncr xyl msci car efx see kmb un mhk
+Short:hrb tex slm mtw coty igt san cnx df avp gnw ne ftr ge qep jcp nbr odp wft dnr
+20181116-20181130 0.008820059157016264 0.0450235282497475
+Long:slb sre ash fbhs nov len atvi usb hum tmus sti cern mos eqt ctl pru mnst ccl bkng aal
+Short:nbr jnpr rig pm pgr gis qep ipg rad san dnr s do avp ne df ge bvsn esv wft
+20181203-20181214 -0.08420009378968411 0.10382547870048735
+Long:wm jwn o cag eix nws slb nwsa trv d exr
+Short:nyt mat mbi do pbi bbby f esv uis rrc aks nbr ftr swn df dnr rrd win wft rad
+20181217-20181231 -0.04260201275399443 0.024135875238262675
+Long:big ms sig tif fosl wy ten vc rl nbl nov trip cag flr cma bkng googl goog hpq disck
+Short:gnw uis eqt mdr key esv bvsn fhn avp hban pbi ftr rad rrd wft chk bgg swn win nbr
