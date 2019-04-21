@@ -1,15 +1,15 @@
-20181016-20181031 -0.02377470308569231 0.11155797115719912
-Long:mac symc ctb pch vtr odp vno kbh zion kim kim ivz ctb dre anf pbi spxc nav nyt jbl
-Short:rig rdc hpe avp win wft viav nbr chk dnr rad rdc eqt nbr win dnr esv chk do wft
-20181101-20181115 0.00958486895368256 0.08885498932083793
-Long:amd sna mat oxy ph mhk mnk nwsa ibm mgm nktr aig amd luv pch wdc nclh celg dwdp spxc
-Short:avp aks qep nbr jcp odp esv ne dnr wft jcp esv nbr ftr qep ge aks dnr ne wft
-20181116-20181130 0.008820059157016264 0.06688137474752917
-Long:nav mbi kbh nov re nvda apd fast aos nsc avp uaa atvi odp bk nov dlx ice nav cog
-Short:s ctl ftr avp chk dnr esv ge df wft coty hban win ne san ge ftr dnr df wft
-20181203-20181214 -0.08420009378968411 0.06903231134219603
-Long:kr fe cl dlx cag bgg dfs bkng wec rl cag mo hp peg pcar eix ice rsg dnb abbv
-Short:mdr nbr bvsn uis df swn rrd rad pbi wft pbi tex avp nbr swn df san rad win wft
-20181217-20181231 -0.04260201275399443 0.034096386600651264
-Long:fti tex tif sig hpq tjx vrsn expe x iac tjx sig fti sanm apc ms cbs car nov tif
-Short:chk ftr ge hban bgg bvsn swn rad win nbr swn hban pbi win gnw rad avp rrd wft nbr
+20181016-20181031 -0.02377470308569231 0.07952035870733706
+Long:anf kim nyt pch mac odp kbh zion jbl ivz pbi nav dre vno spxc symc ctb vtr
+Short:rig win do avp rdc viav hpe chk esv eqt dnr wft nbr rad
+20181101-20181115 0.00958486895368256 0.07486572526761523
+Long:dwdp mat mnk celg pch sna aig wdc mhk luv ibm nclh ph amd oxy nwsa spxc mgm nktr
+Short:wft ftr jcp avp ne ge esv dnr qep nbr aks odp
+20181116-20181130 0.008820059157016264 0.05623692364029103
+Long:mbi uaa dlx nov fast cog kbh avp odp aos nvda ice atvi bk nsc apd re nav
+Short:df wft ftr win avp ctl coty ne ge hban chk esv dnr san s
+20181203-20181214 -0.08420009378968411 0.046579247158467514
+Long:eix rsg dlx bkng dnb bgg mo wec ice fe cag kr hp abbv peg pcar dfs rl cl
+Short:df rrd mdr win uis tex avp bvsn san wft nbr pbi rad swn
+20181217-20181231 -0.04260201275399443 0.020789852856619228
+Long:tif tjx nov tex vrsn hpq iac apc cbs car x sig ms sanm fti expe
+Short:rrd ftr bgg win avp gnw hban ge chk bvsn wft nbr pbi rad swn
