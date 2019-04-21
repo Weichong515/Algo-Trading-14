@@ -1,10 +1,10 @@
-20181016-20181031 -0.01874447243820561 0.0018272913752329894
-hsy endp hrl rdc tsn gis wec wba d
-20181101-20181115 0.00958486895368256 0.01321792582011581
-xlnx f hcp atge xrx sbac ppg cmcsa vtr cnx hrl o fii kim kr amt el ipg altr ivz
-20181116-20181130 0.008820059157016264 -0.0017875242688114193
-myl xec wltw pdco alk chd lb ash bll amd swk ghc ctb fast cvs mlm itt azo navi car
-20181203-20181214 -0.08420009378968411 -0.0858061922137702
-amgn uaa fl adsk vrtx coo mco mnst len dhr ben pcg dal holx gm regn uhs igt mtd eix
-20181217-20181231 -0.04260201275399443 -0.03762336472178846
-iac wec lll cl exr nem fe kmb es incy pg aee kim awk cms
+20181016-20181031 -0.02377470308569231 0.008416277793983176
+wec wba d cnx eix sre evrg azo peg kdp xel so nee etr duk
+20181101-20181115 0.00958486895368256 0.009895974212731584
+o pypl hrl fii ndaq atge cnx sbac cinf cien xrx spg cmg phm ncr kr kim mmc mcd dg mkc anf grmn ko vz tsco ip jwn dal aon
+20181116-20181130 0.008820059157016264 0.008668956915780204
+swk ghc ctb fast cvs mlm itt azo navi car fl expd tgna gnw vrsn ame clx oxy pwr cmi ptc dlr pnw bgg o nrg ir hog mtd dish
+20181203-20181214 -0.08420009378968411 -0.0790157009478927
+ben pcg dal holx gm regn uhs igt mtd eix pfe rmd sanm pki mxim nktr ncr de tex ebay ew abt tgna klac unh gww xlnx sivb ual
+20181217-20181231 -0.04260201275399443 -0.03327840588916
+kmb es incy pg aee kim awk cms exc rmd cci mkc un peg dlr eqix so noc dnb
