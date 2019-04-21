@@ -1,0 +1,15 @@
+20181217-20181231 -0.02377470308569231 0.1274195457912549
+Long:kim ivz ctb dre anf pbi spxc nav nyt jbl
+Short:rad rdc eqt nbr win dnr esv chk do wft
+20181217-20181231 0.00958486895368256 0.10177336248447148
+Long:nktr aig amd luv pch wdc nclh celg dwdp spxc
+Short:jcp esv nbr ftr qep ge aks dnr ne wft
+20181217-20181231 0.008820059157016264 0.0619794785352568
+Long:avp uaa atvi odp bk nov dlx ice nav cog
+Short:coty hban win ne san ge ftr dnr df wft
+20181217-20181231 -0.08420009378968411 0.07326516083998184
+Long:cag mo hp peg pcar eix ice rsg dnb abbv
+Short:pbi tex avp nbr swn df san rad win wft
+20181217-20181231 -0.04260201275399443 0.01812137434853094
+Long:tjx sig fti sanm apc ms cbs car nov tif
+Short:swn hban pbi win gnw rad avp rrd wft nbr
