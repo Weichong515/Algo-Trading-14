@@ -1,0 +1,15 @@
+20181016-20181031 -0.02377470308569231 0.0956963965231433
+Long:mac symc ctb pch vtr odp vno kbh zion kim
+Short:rig rdc hpe avp win wft viav nbr chk dnr
+20181101-20181115 0.00958486895368256 0.0759366161572044
+Long:amd sna mat oxy ph mhk mnk nwsa ibm mgm
+Short:avp aks qep nbr jcp odp esv ne dnr wft
+20181116-20181130 0.008820059157016264 0.07178327095980154
+Long:nav mbi kbh nov re nvda apd fast aos nsc
+Short:s ctl ftr avp chk dnr esv ge df wft
+20181203-20181214 -0.08420009378968411 0.06479946184441022
+Long:kr fe cl dlx cag bgg dfs bkng wec rl
+Short:mdr nbr bvsn uis df swn rrd rad pbi wft
+20181217-20181231 -0.04260201275399443 0.050071398852771565
+Long:fti tex tif sig hpq tjx vrsn expe x iac
+Short:chk ftr ge hban bgg bvsn swn rad win nbr
